@@ -1,0 +1,302 @@
+,order_date,order_id,product_name,product_sales_total,quantity,source
+0,8/1/2019 12:56,10001,Supa Sanitary Pads 10Pieces,800.0,1.0,Fulfilment
+1,8/1/2019 12:56,10002,Always Maxi Thick Extra Long 7 Pads,1000.0,1.0,Fulfilment
+2,8/1/2019 13:01,10003,Tembo Soap (2 pieces)*224g,600.0,2.0,Fulfilment
+3,8/1/2019 13:01,10004,Supa Sanitary Pads 10Pieces,800.0,1.0,Fulfilment
+4,8/1/2019 13:11,10005,Supa Sanitary Pads 10Pieces,800.0,1.0,Fulfilment
+5,8/1/2019 13:21,10006,Amara For Men,1600.0,1.0,Fulfilment
+6,8/1/2019 13:21,10007,Amara Natural Glow Scented Glycerine 100ml,700.0,1.0,Fulfilment
+7,8/1/2019 13:36,10008,Innotex Cocktail Condoms Pack of 3,500.0,5.0,Fulfilment
+8,8/1/2019 13:36,10009,Rapid Labs Pregnancy Test,180.0,3.0,Fulfilment
+9,8/1/2019 13:36,10010,NorLevo Emergency Contraceptive Pill - 1 Tablet,600.0,1.0,Fulfilment
+10,8/1/2019 13:46,10011,Amara For Men,1600.0,1.0,Fulfilment
+11,8/1/2019 13:51,10012,Prudence Condoms Pack of 4,1000.0,2.0,Fulfilment
+12,8/1/2019 13:51,10013,Prudence Condoms Pack of 4,1000.0,2.0,Fulfilment
+13,8/1/2019 13:51,10014,Geisha BathSoap Invigorating Lemon 225g,1400.0,2.0,Fulfilment
+14,8/1/2019 13:56,10015,Amara For Men,1600.0,1.0,Fulfilment
+15,8/1/2019 13:56,10016,Prudence Condoms Pack of 4,1000.0,2.0,Fulfilment
+16,8/1/2019 13:56,10017,Prudence Condoms Pack of 4,1000.0,2.0,Fulfilment
+17,8/1/2019 13:56,10018,Prudence Condoms Pack of 4,1000.0,2.0,Fulfilment
+18,8/1/2019 14:01,10019,,,,Fulfilment
+19,8/1/2019 14:31,10020,Johnson's Vita-Rich Nourishing Cocoa Butter Lotion 400ml,2800.0,1.0,Fulfilment
+20,8/1/2019 14:31,10021,Veet Hair Removal Cream Silk&amp;Fresh Normal Skin 100g,4000.0,1.0,Fulfilment
+21,8/1/2019 14:31,10022,Supa Toilet Paper-3,1200.0,2.0,Fulfilment
+22,8/1/2019 14:51,10023,Lifebuoy Germ Protection Antibacterial Total 10 Hand Body Soap Bar Pack of 2 x 75gr + 1 Free,1200.0,6.0,Fulfilment
+23,8/1/2019 15:01,10024,Innotex Cocktail Condoms Pack of 3,500.0,5.0,Fulfilment
+24,8/1/2019 15:01,10025,NorLevo Emergency Contraceptive Pill - 1 Tablet,600.0,1.0,Fulfilment
+25,8/1/2019 15:01,10026,Rapid Labs Pregnancy Test,180.0,3.0,Fulfilment
+26,8/1/2019 15:01,10027,Oraquick HIV Self Test,0.0,3.0,Fulfilment
+27,8/1/2019 15:06,10028,Innotex longlasting,5000.0,5.0,Fulfilment
+28,8/1/2019 15:11,10029,Moods UltraThin Condoms Pack of 3,2000.0,2.0,Fulfilment
+29,8/1/2019 15:16,10030,Stayfree Maxi Thick Regular Scented With Wings  Pack of 8,1100.0,1.0,Fulfilment
+30,8/1/2019 15:16,10031,Fresh White Sensitive Toothpaste 90g,1000.0,1.0,Fulfilment
+31,8/1/2019 15:16,10032,Best Ladies Maxi 10Pads,600.0,1.0,Fulfilment
+32,8/1/2019 15:16,10033,Prudence Condoms Pack of 4,2500.0,5.0,Fulfilment
+33,8/1/2019 15:21,10034,Supa Sanitary Pads 10Pieces,1600.0,2.0,Fulfilment
+34,8/1/2019 15:36,10035,Best Ladies Maxi 10Pads,600.0,1.0,Fulfilment
+35,8/1/2019 15:41,10036,Geisha BathSoap Invigorating Lemon 225g,1400.0,2.0,Fulfilment
+36,8/1/2019 15:46,10037,Geisha Bath Soap Soothing Aloe Vera 225g,700.0,1.0,Fulfilment
+37,8/1/2019 15:46,10038,Best Ladies Maxi 10Pads,600.0,1.0,Fulfilment
+38,8/1/2019 15:46,10039,Best Ladies Maxi 10Pads,600.0,1.0,Fulfilment
+39,8/1/2019 15:51,10040,Rapid Labs Pregnancy Test,1800.0,3.0,Fulfilment
+40,8/1/2019 15:51,10041,Sante Bathing Bar Soap Pack of 3 x 75gr,1200.0,6.0,Fulfilment
+41,8/1/2019 15:56,10042,Best Ladies Maxi 10Pads,6000.0,10.0,Fulfilment
+42,8/1/2019 16:01,10043,Supa Sanitary Pads 10Pieces,4000.0,5.0,Fulfilment
+43,8/1/2019 16:01,10044,Durex Warming Pleasure Gel 50ml,7200.0,1.0,Fulfilment
+44,8/1/2019 16:11,10045,Rapid Labs Pregnancy Test,600.0,1.0,Fulfilment
+45,8/1/2019 14:15,10046,Claire Baby 250g (B2B),3600.0,3.0,Fulfilment
+46,8/1/2019 14:15,10047,Shoe Polish (B2B),840.0,3.0,Fulfilment
+47,8/1/2019 14:15,10048,Supa Pad (B2B),750.0,1.0,Fulfilment
+48,8/1/2019 14:15,10049,Bic Crystal (B2B),130.0,1.0,Fulfilment
+49,8/1/2019 16:16,10050,Lifebuoy Germ Protection Antibacterial Total 10 Hand Body Soap Bar Pack of 2 x 75gr + 1 Free,1200.0,6.0,Fulfilment
+50,8/1/2019 16:21,10051,Geisha BathSoap Invigorating Lemon 225g,4900.0,7.0,Fulfilment
+51,8/1/2019 16:26,10052,NorLevo Emergency Contraceptive Pill - 1 Tablet,6000.0,1.0,Fulfilment
+52,8/1/2019 16:26,10053,Oraquick HIV Self Test,0.0,2.0,Fulfilment
+53,8/1/2019 16:31,10054,Sante Bathing Bar Soap Pack of 3 x 75gr,3000.0,15.0,Fulfilment
+54,8/1/2019 16:31,10055,Blade Cooler Deodorant Spray,1800.0,1.0,Fulfilment
+55,8/1/2019 16:31,10056,Vaseline Pure Petroleum Jelly Original 250g,2900.0,2.0,Fulfilment
+56,8/1/2019 16:41,10057,Prudence Condoms Pack of 4,500.0,1.0,Fulfilment
+57,8/1/2019 16:41,10058,Oraquick HIV Self Test,0.0,2.0,Fulfilment
+58,8/1/2019 16:41,10059,Geisha Bath Soap Soothing Aloe Vera 225g,1400.0,2.0,Fulfilment
+59,8/1/2019 16:46,10060,Best Ladies Maxi 10Pads,1200.0,2.0,Fulfilment
+60,8/1/2019 16:51,10061,Supa Sanitary Pads 10Pieces,800.0,1.0,Fulfilment
+61,8/1/2019 17:01,10062,Geisha Bath Soap Soothing Aloe Vera 225g,1400.0,2.0,Fulfilment
+62,8/1/2019 17:01,10063,Best Ladies Maxi 10Pads,1200.0,2.0,Fulfilment
+63,8/1/2019 17:01,10064,Best Ladies Maxi 10Pads,1200.0,2.0,Fulfilment
+64,8/1/2019 17:06,10065,NorLevo Emergency Contraceptive Pill - 1 Tablet,30000.0,5.0,Fulfilment
+65,8/1/2019 17:06,10066,NorLevo Emergency Contraceptive Pill - 1 Tablet,30000.0,5.0,Fulfilment
+66,8/1/2019 17:06,10067,"Polygynax Vaginal Capsules, Pack of 12",18000.0,3.0,Fulfilment
+67,8/1/2019 17:11,10068,AXE Africa Body Spray 150ml,2500.0,1.0,Fulfilment
+68,8/1/2019 17:11,10069,Geisha BathSoap Invigorating Lemon 225g,1400.0,2.0,Fulfilment
+69,8/1/2019 17:11,10070,Supa Sanitary Pads 10Pieces,800.0,1.0,Fulfilment
+70,8/1/2019 17:16,10071,Supa Toilet Paper-10,2000.0,1.0,Fulfilment
+71,8/1/2019 17:16,10072,Innotex Cocktail Condoms Pack of 3,1000.0,1.0,Fulfilment
+72,8/1/2019 17:16,10073,Oraquick HIV Self Test,0.0,2.0,Fulfilment
+73,8/1/2019 17:21,10074,Stayfree Maxi Thick Regular Scented With Wings  Pack of 8,1100.0,1.0,Fulfilment
+74,8/1/2019 17:26,10075,Tembo Soap (2 pieces)*224g,1800.0,6.0,Fulfilment
+75,8/1/2019 17:26,10076,Supa Toilet Paper-3,1200.0,2.0,Fulfilment
+76,8/1/2019 17:27,10077,NorLevo Emergency Contraceptive Pill - 1 Tablet,6000.0,1.0,Fulfilment
+77,8/1/2019 17:31,10078,Supa Sanitary Pads 10Pieces,1600.0,2.0,Fulfilment
+78,8/1/2019 17:31,10079,Best Ladies Maxi 10Pads,1200.0,2.0,Fulfilment
+79,8/1/2019 17:36,10080,Rapid Labs Pregnancy Test,600.0,1.0,Fulfilment
+80,8/1/2019 17:41,10081,Supa Sanitary Pads 10Pieces,8000.0,10.0,Fulfilment
+81,8/1/2019 17:51,10082,Supa Sanitary Pads 10Pieces,16000.0,20.0,Fulfilment
+82,8/1/2019 17:56,10083,Sebamed Olive Cleansing Bar 150g,3000.0,1.0,Fulfilment
+83,8/1/2019 18:11,10084,Innotex longlasting,500.0,5.0,Fulfilment
+84,8/1/2019 18:11,10085,NorLevo Emergency Contraceptive Pill - 1 Tablet,600.0,1.0,Fulfilment
+85,8/1/2019 18:11,10086,Rapid Labs Pregnancy Test,180.0,3.0,Fulfilment
+86,8/1/2019 18:11,10087,Sante Bathing Bar Soap Pack of 3 x 75gr,1200.0,6.0,Fulfilment
+87,8/1/2019 18:16,10088,Geisha Bath Soap Soothing Aloe Vera 225g,700.0,1.0,Fulfilment
+88,8/1/2019 18:26,10089,Best Ladies Maxi 10Pads,1800.0,3.0,Fulfilment
+89,8/1/2019 18:36,10090,Supa Sanitary Pads 10Pieces,800.0,1.0,Fulfilment
+90,8/1/2019 18:36,10091,Supa Sanitary Pads 10Pieces,1600.0,2.0,Fulfilment
+91,8/1/2019 18:41,10092,O.B Original Super Tampons 8 Pieces,2100.0,1.0,Fulfilment
+92,8/1/2019 18:41,10093,Shuya Sanitary Pads for Day Use 10 pads,1700.0,1.0,Fulfilment
+93,8/1/2019 18:51,10094,Best Ladies Maxi 10Pads,600.0,1.0,Fulfilment
+94,8/1/2019 18:51,10095,Best Ladies Maxi 10Pads,600.0,1.0,Fulfilment
+95,8/1/2019 19:01,10096,Lifebuoy Germ Protection Antibacterial Total 10 Hand Body Soap Bar Pack of 2 x 75gr + 1 Free,600.0,3.0,Fulfilment
+96,8/1/2019 19:01,10097,Vaseline Pure Petroleum Jelly Original 250g,1450.0,1.0,Fulfilment
+97,8/1/2019 19:01,10098,Supa Sanitary Pads 10Pieces,8000.0,10.0,Fulfilment
+98,8/1/2019 19:06,10099,Supa Sanitary Pads 10Pieces,1600.0,2.0,Fulfilment
+99,8/1/2019 19:21,10100,Amara Body Milk Lotion 400ml,1600.0,1.0,Fulfilment
+100,8/1/2019 19:21,10101,Amara Natural Glow Scented Glycerine 100ml,700.0,1.0,Fulfilment
+0,8/1/2019 5:37,10001,Tembo Soap (2 pieces)224g,2400.0,8.0,Inventory
+1,8/1/2019 5:37,10002,Geisha Bath Soap Moisturising Coconut Milk and Vitamin E 225g,700.0,1.0,Inventory
+2,8/1/2019 6:31,10003,Innotex Long Lasting Condoms Pack of 3,5000.0,5.0,Inventory
+3,8/1/2019 6:31,10004,Norlevo emergency contraceptive pill-1 tablet,6000.0,1.0,Inventory
+4,8/1/2019 6:31,10005,Rapid labs pregnancy test,1200.0,2.0,Inventory
+5,8/1/2019 5:39,10006,Amara For Men,1600.0,1.0,Inventory
+6,8/1/2019 5:39,10007,Veet For Normal Skin,4000.0,1.0,Inventory
+7,8/1/2019 5:39,10008,Lifebuoy Germ Protection Antibacterial Total 10 Hand Body Soap Bar Pack of 2 x 75gr,1200.0,6.0,Inventory
+8,8/1/2019 5:54,10009,Innotex Long Lasting Condoms Pack of 3,1700.0,2.0,Inventory
+9,8/1/2019 5:54,10010,Shipping for Tomorrow,500.0,1.0,Inventory
+10,8/1/2019 5:31,10011,Vaseline Cocoa Glow,2500.0,1.0,Inventory
+11,8/1/2019 5:31,10012,Lifebuoy Germ Protection Antibacterial Total 10 Hand Body Soap Bar Pack of 2 x 75gr,600.0,3.0,Inventory
+12,8/1/2019 14:40,10013,Shipping for Tomorrow,500.0,1.0,Inventory
+13,8/1/2019 14:40,10014,Rapid labs pregnancy test,600.0,1.0,Inventory
+14,8/1/2019 14:40,10015,ORAQUICK HIV Self test,0.0,2.0,Inventory
+15,8/2/2019 5:58,10016,Supa Sanitary Pads 10Pieces,1600.0,2.0,Inventory
+16,8/1/2019 9:34,10017,Supa Sanitary Pads 10Pieces,2040.0,3.0,Inventory
+17,8/1/2019 9:34,10018,Vaseline Blueseal Gentle Protective Baby Jelly 250g,1233.0,1.0,Inventory
+18,8/1/2019 9:34,10019,Amara Body Milk Lotion 400ml,1360.0,1.0,Inventory
+19,8/1/2019 9:34,10020,shipping for today,800.0,1.0,Inventory
+20,8/1/2019 9:34,10021,Amara Glycerine Unscented 100ml,595.0,1.0,Inventory
+21,8/1/2019 7:24,10022,Supa Sanitary Pads 10Pieces,800.0,1.0,Inventory
+22,8/1/2019 7:24,10023,Fresh White Sensitive,1000.0,1.0,Inventory
+23,8/1/2019 5:55,10024,Dudu Osun black soap,8000.0,2.0,Inventory
+24,8/1/2019 5:55,10025,Shipping for Tomorrow,500.0,1.0,Inventory
+25,8/5/2019 14:17,10026,Shipping for Tomorrow,500.0,1.0,Inventory
+26,8/5/2019 14:17,10027,Rapid labs pregnancy test,600.0,1.0,Inventory
+27,8/5/2019 14:17,10028,ORAQUICK HIV Self test,0.0,2.0,Inventory
+28,8/1/2019 5:33,10029,Supa Sanitary Pads 10Pieces,800.0,1.0,Inventory
+29,8/1/2019 5:33,10030,Geisha Bath Soap Soothing Aloe Vera 225g,700.0,1.0,Inventory
+30,8/1/2019 5:34,10031,Supa Sanitary Pads 10Pieces,2400.0,3.0,Inventory
+31,8/1/2019 5:34,10032,Amara For Men,1600.0,1.0,Inventory
+32,8/1/2019 5:35,10033,Best Ladies Maxi 10Pads,1200.0,2.0,Inventory
+33,8/1/2019 9:30,10034,Soothing and Repairing face serum,10000.0,1.0,Inventory
+34,8/1/2019 9:30,10035,Shipping for Tomorrow,500.0,1.0,Inventory
+35,8/1/2019 5:35,10036,Geisha Cocoa Butter Body Lotion 400ml,1400.0,1.0,Inventory
+36,8/1/2019 5:36,10037,Best Ladies Maxi 10Pads,1200.0,2.0,Inventory
+37,8/1/2019 6:16,10038,Shipping for Tomorrow,500.0,1.0,Inventory
+38,8/1/2019 6:16,10039,ORAQUICK HIV Self test,0.0,2.0,Inventory
+39,8/1/2019 6:16,10040,Levonorgestrel,6000.0,1.0,Inventory
+40,8/1/2019 6:15,10041,Shipping for Tomorrow,500.0,1.0,Inventory
+41,8/1/2019 6:15,10042,Pill 72 Emergency contraceptive pills,4000.0,1.0,Inventory
+42,8/2/2019 17:06,10043,VWash Plus Intimate Hygiene Wash 100ml,5000.0,1.0,Inventory
+43,8/2/2019 17:06,10044,Shipping for Tomorrow,500.0,1.0,Inventory
+44,8/1/2019 6:25,10045,Age- Defying face serum,10000.0,1.0,Inventory
+45,8/1/2019 6:25,10046,Oil Control face serum,10000.0,1.0,Inventory
+46,8/1/2019 6:25,10047,shipping for today,800.0,1.0,Inventory
+47,8/1/2019 5:51,10048,O.B Original Super Tampons 8 Pieces,2100.0,1.0,Inventory
+48,8/1/2019 5:51,10049,Shipping for Emergency(1 hour),1500.0,1.0,Inventory
+49,8/1/2019 6:53,10050,Best Ladies Maxi 10Pads,600.0,1.0,Inventory
+50,8/2/2019 5:56,10051,Supa Sanitary Pads 10Pieces,1600.0,2.0,Inventory
+51,8/2/2019 5:54,10052,Supa Sanitary Pads 10Pieces,1600.0,2.0,Inventory
+52,8/1/2019 6:53,10053,Vaseline Cocoa Glow,2500.0,1.0,Inventory
+53,8/1/2019 6:53,10054,Lifebuoy Germ Protection Antibacterial Total 10 Hand Body Soap Bar Pack of 2 x 75gr,600.0,3.0,Inventory
+54,8/2/2019 5:46,10055,Best Ladies Maxi 10Pads,3000.0,5.0,Inventory
+55,8/2/2019 5:56,10056,Supa Sanitary Pads 10Pieces,1600.0,2.0,Inventory
+56,8/2/2019 10:20,10057,Tembo Soap (2 pieces)224g,1200.0,4.0,Inventory
+57,8/2/2019 6:00,10058,Shipping for Tomorrow,500.0,1.0,Inventory
+58,8/2/2019 6:00,10059,Lifebuoy Germ Protection Antibacterial Total 10 Hand Body Soap Bar Pack of 2 x 75gr,6000.0,30.0,Inventory
+59,8/2/2019 10:21,10060,Sante Bathing Bar Soap 75g,3600.0,18.0,Inventory
+60,8/1/2019 9:32,10061,Norlevo emergency contraceptive pill-1 tablet,6000.0,1.0,Inventory
+61,8/1/2019 9:32,10062,ORAQUICK HIV Self test,0.0,2.0,Inventory
+62,8/1/2019 9:32,10063,Innotex Classic Condoms,2000.0,2.0,Inventory
+63,8/2/2019 10:21,10064,Geisha Cocoa Butter Body Lotion 200ml,700.0,1.0,Inventory
+64,8/1/2019 9:26,10065,Norlevo emergency contraceptive pill-1 tablet,6000.0,1.0,Inventory
+65,8/1/2019 9:26,10066,shipping for today,800.0,1.0,Inventory
+66,8/2/2019 5:53,10067,Supa Sanitary Pads 10Pieces,4000.0,5.0,Inventory
+67,8/1/2019 9:30,10068,Norlevo emergency contraceptive pill-1 tablet,6000.0,1.0,Inventory
+68,8/1/2019 9:30,10069,ORAQUICK HIV Self test,0.0,2.0,Inventory
+69,8/2/2019 10:19,10070,Tembo Soap (2 pieces)224g,3000.0,10.0,Inventory
+70,8/1/2019 9:35,10071,Innotex Long Lasting Condoms Pack of 3,5000.0,5.0,Inventory
+71,8/1/2019 9:35,10072,Norlevo emergency contraceptive pill-1 tablet,6000.0,1.0,Inventory
+72,8/1/2019 10:56,10073,Lifebuoy Germ Protection Antibacterial Total 10 Hand Body Soap Bar Pack of 2 x 75gr,7200.0,36.0,Inventory
+73,8/1/2019 10:55,10074,Geisha Bath Soap Soothing Aloe Vera 225g,700.0,1.0,Inventory
+74,8/2/2019 5:45,10075,Best Ladies Maxi 10Pads,3000.0,5.0,Inventory
+75,8/2/2019 10:19,10076,Tembo Soap (2 pieces)224g,3000.0,10.0,Inventory
+76,8/1/2019 10:55,10077,Geisha Cocoa Butter Body Lotion 400ml,1400.0,1.0,Inventory
+77,8/1/2019 7:48,10078,Shipping for Emergency(1 hour),1500.0,1.0,Inventory
+78,8/1/2019 7:48,10079,Nivea Active Care lip balm,8000.0,2.0,Inventory
+79,8/1/2019 10:57,10080,Supa Toilet Paper,2000.0,10.0,Inventory
+80,8/1/2019 10:54,10081,Tembo Soap (2 pieces)224g,10800.0,36.0,Inventory
+81,8/1/2019 10:54,10082,Supa Toilet Paper,2000.0,10.0,Inventory
+82,8/1/2019 10:58,10083,Supa Toilet Paper,2000.0,10.0,Inventory
+83,8/1/2019 10:50,10084,Supa Toilet Paper,2000.0,10.0,Inventory
+84,8/1/2019 11:44,10085,Always Maxi Thick Extra Long 7 pads,1000.0,1.0,Inventory
+85,8/2/2019 5:48,10086,Amara For Men,1600.0,1.0,Inventory
+86,8/2/2019 5:48,10087,Amara Glycerine Scented 100ml,700.0,1.0,Inventory
+87,8/1/2019 8:26,10088,Prudence Condoms Pack of 3,500.0,1.0,Inventory
+88,8/1/2019 8:26,10089,Shipping for Emergency(1 hour),1500.0,1.0,Inventory
+89,8/1/2019 8:26,10090,ORAQUICK HIV Self test,0.0,2.0,Inventory
+90,8/2/2019 5:47,10091,Best Ladies Maxi 10Pads,3000.0,5.0,Inventory
+91,8/2/2019 5:47,10092,Tembo Soap (2 pieces)224g,1800.0,6.0,Inventory
+92,8/1/2019 10:51,10093,Supa Sanitary Pads 10Pieces,8000.0,10.0,Inventory
+93,8/1/2019 9:29,10094,Best Ladies Maxi 10Pads,600.0,1.0,Inventory
+94,8/1/2019 9:28,10095,Always Maxi Thick Extra Long 7 pads,1000.0,1.0,Inventory
+95,8/2/2019 6:01,10096,Prudence Condoms Pack of 3,2500.0,5.0,Inventory
+96,8/2/2019 6:01,10097,Shipping for Tomorrow,500.0,1.0,Inventory
+97,8/2/2019 6:01,10098,ORAQUICK HIV Self test,0.0,2.0,Inventory
+98,8/1/2019 10:52,10099,Vaseline Blueseal Gentle Protective Baby Jelly 250g,1450.0,1.0,Inventory
+99,8/1/2019 9:27,10100,Nivea Deodorant Dry Impact  for Men,2500.0,1.0,Inventory
+0,8/1/2019 3:40,10001,VWash Plus Intimate Hygiene Wash 100ml,5000.0,1.0,Order
+1,8/1/2019 7:25,10002,O.B Original Super Tampons 8 Pieces,2100.0,1.0,Order
+2,8/1/2019 7:30,10003,Best Ladies Maxi 10Pads,600.0,1.0,Order
+3,8/1/2019 7:36,10004,Geisha Bath Soap Soothing Aloe Vera 225g,700.0,1.0,Order
+4,8/1/2019 7:36,10005,Supa Sanitary Pads 10Pieces,1600.0,2.0,Order
+5,8/1/2019 7:41,10006,Supa Sanitary Pads 10Pieces,1600.0,2.0,Order
+6,8/1/2019 7:41,10007,Lifebuoy Germ Protection Antibacterial Total 10 Hand Body Soap Bar Pack of 2 x 75gr + 1 Free,600.0,3.0,Order
+7,8/1/2019 7:41,10008,Vaseline Cocoa Glow Intensive Care Body Lotion - 400mL,2500.0,1.0,Order
+8,8/1/2019 7:56,10009,Best Ladies Maxi 10Pads,3000.0,5.0,Order
+9,8/1/2019 8:06,10010,Supa Sanitary Pads 10Pieces,1600.0,2.0,Order
+10,8/1/2019 8:11,10011,Tembo Soap (2 pieces)*224g,1200.0,4.0,Order
+11,8/1/2019 8:26,10012,Sante Bathing Bar Soap Pack of 3 x 75gr,3600.0,18.0,Order
+12,8/1/2019 8:26,10013,NorLevo Emergency Contraceptive Pill - 1 Tablet,600.0,1.0,Order
+13,8/1/2019 8:26,10014,Innotex Classic Condoms Pack of 3,200.0,2.0,Order
+14,8/1/2019 8:26,10015,Oraquick HIV Self Test,0.0,2.0,Order
+15,8/1/2019 8:35,10016,Geisha Cocoa Butter Body Lotion 200ml,700.0,1.0,Order
+16,8/1/2019 8:41,10017,Levonorgestrel Emergency Contraceptive Pill - 1 Tablet,6000.0,1.0,Order
+17,8/1/2019 8:46,10018,NorLevo Emergency Contraceptive Pill - 1 Tablet,6000.0,1.0,Order
+18,8/1/2019 8:46,10019,Supa Sanitary Pads 10Pieces,4000.0,5.0,Order
+19,8/1/2019 8:51,10020,NorLevo Emergency Contraceptive Pill - 1 Tablet,600.0,1.0,Order
+20,8/1/2019 8:51,10021,Oraquick HIV Self Test,0.0,2.0,Order
+21,8/1/2019 8:56,10022,Tembo Soap (2 pieces)*224g,3000.0,10.0,Order
+22,8/1/2019 8:56,10023,NorLevo Emergency Contraceptive Pill - 1 Tablet,6000.0,1.0,Order
+23,8/1/2019 8:56,10024,NorLevo Emergency Contraceptive Pill - 1 Tablet,6000.0,1.0,Order
+24,8/1/2019 8:56,10025,NorLevo Emergency Contraceptive Pill - 1 Tablet,6000.0,1.0,Order
+25,8/1/2019 9:01,10026,Innotex longlasting,500.0,5.0,Order
+26,8/1/2019 9:01,10027,NorLevo Emergency Contraceptive Pill - 1 Tablet,600.0,1.0,Order
+27,8/1/2019 9:01,10028,Lifebuoy Germ Protection Antibacterial Total 10 Hand Body Soap Bar Pack of 2 x 75gr + 1 Free,7200.0,36.0,Order
+28,8/1/2019 9:01,10029,Geisha Bath Soap Soothing Aloe Vera 225g,700.0,1.0,Order
+29,8/1/2019 9:06,10030,Best Ladies Maxi 10Pads,3000.0,5.0,Order
+30,8/1/2019 9:11,10031,Best Ladies Maxi 10Pads,3000.0,5.0,Order
+31,8/1/2019 9:11,10032,"Polygynax Vaginal Capsules, Pack of 12",30000.0,5.0,Order
+32,8/1/2019 9:11,10033,Moods UltraThin Condoms Pack of 3,80000.0,80.0,Order
+33,8/1/2019 9:11,10034,Moods UltraThin Condoms Pack of 3,80000.0,80.0,Order
+34,8/1/2019 9:11,10035,Moods UltraThin Condoms Pack of 3,80000.0,80.0,Order
+35,8/1/2019 9:16,10036,Tembo Soap (2 pieces)*224g,3000.0,10.0,Order
+36,8/1/2019 9:16,10037,Moods UltraThin Condoms Pack of 3,80000.0,80.0,Order
+37,8/1/2019 9:21,10038,Geisha Cocoa Butter Body Lotion 400ml,1400.0,1.0,Order
+38,8/1/2019 9:31,10039,Supa Toilet Paper-10,2000.0,1.0,Order
+39,7/10/2019 18:45,10040,Supa Sanitary Pads 10Pieces,8000.0,10.0,Order
+40,8/1/2019 9:40,10041,Supa Toilet Paper-10,2000.0,1.0,Order
+41,8/1/2019 9:40,10042,Tembo Soap (2 pieces)*224g,10800.0,36.0,Order
+42,8/1/2019 9:41,10043,Supa Sanitary Pads 10Pieces,800.0,1.0,Order
+43,8/1/2019 9:46,10044,Supa Toilet Paper-10,2000.0,1.0,Order
+44,8/1/2019 9:46,10045,Supa Toilet Paper-10,2000.0,1.0,Order
+45,8/1/2019 9:50,10046,Always Maxi Thick Extra Long 7 Pads,1000.0,1.0,Order
+46,8/1/2019 10:01,10047,Astral Original Face&Body Moisturizer 200ml,6000.0,1.0,Order
+47,8/1/2019 10:01,10048,Amara For Men,1600.0,1.0,Order
+48,8/1/2019 10:01,10049,Amara Natural Glow Scented Glycerine 100ml,700.0,1.0,Order
+49,8/1/2019 10:01,10050,Oraquick HIV Self Test,0.0,2.0,Order
+50,8/1/2019 10:01,10051,Prudence Condoms Pack of 4,500.0,1.0,Order
+51,8/1/2019 10:01,10052,Best Ladies Maxi 10Pads,3000.0,5.0,Order
+52,8/1/2019 10:01,10053,Tembo Soap (2 pieces)*224g,1800.0,6.0,Order
+53,8/1/2019 10:06,10054,Prudence Condoms Pack of 4,1000.0,2.0,Order
+54,8/1/2019 10:06,10055,Supa Sanitary Pads 10Pieces,8000.0,10.0,Order
+55,8/1/2019 10:20,10056,Innotex longlasting,10000.0,10.0,Order
+56,8/1/2019 10:26,10057,Durex Feel Thin 3Condoms,7000.0,2.0,Order
+57,8/1/2019 10:26,10058,Supa Sanitary Pads 10Pieces,800.0,1.0,Order
+58,8/1/2019 10:41,10059,Prudence Condoms Pack of 4,250.0,5.0,Order
+59,8/1/2019 10:41,10060,Oraquick HIV Self Test,0.0,2.0,Order
+60,8/1/2019 10:46,10061,Vaseline Blueseal Gentle Protective Baby Jelly 250g,1450.0,1.0,Order
+61,8/1/2019 10:46,10062,Nivea Men Deodorant 50Ml,2500.0,1.0,Order
+62,8/1/2019 10:50,10063,Lifebuoy Germ Protection Antibacterial Total 10 Hand Body Soap Bar Pack of 2 x 75gr + 1 Free,1200.0,6.0,Order
+63,8/1/2019 10:50,10064,Lifebuoy Germ Protection Antibacterial Total 10 Hand Body Soap Bar Pack of 2 x 75gr + 1 Free,1200.0,6.0,Order
+64,8/1/2019 10:56,10065,Sante Bathing Bar Soap Pack of 3 x 75gr,1200.0,6.0,Order
+65,8/1/2019 10:56,10066,Supa Toilet Paper-10,2000.0,1.0,Order
+66,8/1/2019 10:56,10067,Amara Natural Glow Scented Glycerine 100ml,700.0,1.0,Order
+67,8/1/2019 11:01,10068,Amara Body Milk Lotion 400ml,1600.0,1.0,Order
+68,8/1/2019 11:01,10069,Amara Body Milk Lotion 400ml,1600.0,1.0,Order
+69,8/1/2019 11:11,10070,Geisha Bath Soap Soothing Aloe Vera 225g,1400.0,2.0,Order
+70,8/1/2019 11:16,10071,Geisha Bath Soap Soothing Aloe Vera 225g,700.0,1.0,Order
+71,8/1/2019 11:16,10072,Geisha BathSoap Invigorating Lemon 225g,700.0,1.0,Order
+72,8/1/2019 11:21,10073,Supa Sanitary Pads 10Pieces,800.0,1.0,Order
+73,8/1/2019 11:26,10074,Geisha BathSoap Invigorating Lemon 225g,700.0,1.0,Order
+74,8/1/2019 11:26,10075,Best Ladies Maxi 10Pads,600.0,1.0,Order
+75,8/1/2019 11:36,10076,Supa Sanitary Pads 10Pieces,800.0,1.0,Order
+76,8/1/2019 9:47,10077,Best Ladies Maxi 10Pads,0.0,1.0,Order
+77,8/1/2019 12:11,10078,Amara For Men,1600.0,1.0,Order
+78,8/1/2019 12:11,10079,Amara Natural Glow Scented Glycerine 100ml,700.0,1.0,Order
+79,8/1/2019 12:16,10080,NorLevo Emergency Contraceptive Pill - 1 Tablet,600.0,1.0,Order
+80,8/1/2019 12:16,10081,Oraquick HIV Self Test,0.0,2.0,Order
+81,8/1/2019 12:16,10082,Lifebuoy Germ Protection Antibacterial Total 10 Hand Body Soap Bar Pack of 2 x 75gr + 1 Free,600.0,3.0,Order
+82,8/1/2019 12:21,10083,Best Ladies Maxi 10Pads,600.0,1.0,Order
+83,8/1/2019 12:21,10084,Amara For Men,1600.0,1.0,Order
+84,8/1/2019 12:26,10085,Supa Sanitary Pads 10Pieces,800.0,1.0,Order
+85,8/1/2019 12:31,10086,Always Maxi Thick Extra Long 7 Pads,1000.0,1.0,Order
+86,8/1/2019 12:31,10087,Geisha Cocoa Butter Body Lotion 400ml,1400.0,1.0,Order
+87,8/1/2019 12:36,10088,Rapid Labs Pregnancy Test,600.0,1.0,Order
+88,8/1/2019 12:36,10089,Rapid Labs Pregnancy Test,600.0,1.0,Order
+89,8/1/2019 10:37,10090,Innotex longlasting,200.0,2.0,Order
+90,8/1/2019 10:37,10091,Moods UltraThin Condoms Pack of 3,200.0,2.0,Order
+91,8/1/2019 10:37,10092,Fiesta Strawberry Condoms 1 Pack (3 Pieces),100.0,1.0,Order
+92,8/1/2019 10:37,10093,Rapid Labs Pregnancy Test,180.0,3.0,Order
+93,8/1/2019 10:37,10094,NorLevo Emergency Contraceptive Pill - 1 Tablet,600.0,1.0,Order
+94,8/1/2019 10:37,10095,Oraquick HIV Self Test,0.0,1.0,Order
+95,8/1/2019 12:41,10096,Rapid Labs Pregnancy Test,600.0,1.0,Order
+96,8/1/2019 12:46,10097,Supa Sanitary Pads 10Pieces,8000.0,10.0,Order
+97,8/1/2019 12:46,10098,Amara For Men,1600.0,1.0,Order
+98,8/1/2019 12:56,10099,Supa Sanitary Pads 10Pieces,800.0,1.0,Order
+99,8/1/2019 12:56,10100,Supa Sanitary Pads 10Pieces,800.0,1.0,Order
